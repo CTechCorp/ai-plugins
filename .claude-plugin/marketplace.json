@@ -1,0 +1,18 @@
+{
+  "name": "ctech",
+  "owner": {
+    "name": "C Tech Development Corporation",
+    "url": "https://www.ctech.com"
+  },
+  "metadata": {
+    "description": "AI agent plugins from C Tech Development Corporation. Licensed only to C Tech customers with a current EVS subscription. By installing, you agree to the C Tech AI Integrations License Agreement included with the release, also published at https://ctech.com/downloads/."
+  },
+  "plugins": [
+    {
+      "name": "evs-data-tools",
+      "source": "./plugins/evs-data-tools",
+      "description": "Skills for creating, reading, validating and converting C Tech Earth Volumetric Studio (EVS) data files: .apdv, .aidv, .lpdv, .lsdv, .pgf, .geo and .gmf. Licensed only to C Tech customers with a current EVS subscription. By installing, you agree to the C Tech AI Integrations License Agreement included with the release, also published at https://ctech.com/downloads/.",
+      "category": "data"
+    }
+  ]
+}
